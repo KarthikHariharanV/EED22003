@@ -88,5 +88,3 @@ function change() {
     video.src = "image/diode.mp4";
   }
 }
-
-
