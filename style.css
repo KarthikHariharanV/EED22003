@@ -387,7 +387,7 @@ letter-spacing: 10px;
     width: 300px;
 }
 #tj{
-    background:rgb(37, 37, 37) ;
+    background-image: url(image/photo3.jpg) ;
 }
 .slide .list .item .content .hhh{  
     font-size: 18px;
@@ -400,3 +400,5 @@ letter-spacing: 10px;
     width: 60%;
     left: 8%;
 }
+
+
