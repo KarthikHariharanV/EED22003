@@ -177,7 +177,7 @@ body{
 #hh{
    background:rgb(13, 44, 145); 
 }
-#fullscreen-btn {
+#btn {
     position: fixed;
     top: 10px;
     right: 10px;
